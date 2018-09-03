@@ -164,7 +164,7 @@ video{
 
 .item:hover figure img{
 	transform:scale(1.25);
-	filter: grayscale(0);	
+	filter: hue-rotate(90deg);	
 	transition:all ease-out 0.5s;
 }
 
